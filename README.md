@@ -1,6 +1,6 @@
 # Pacoca-Royale
 
-ste site permite que usuários consultem informações detalhadas de contas de Clash Royale, a partir do ID do jogador (Player Tag). Ele também disponibiliza uma lista de cartas do jogo, incluindo nome, raridade, tipo e nível máximo.
+Este site permite que usuários consultem informações detalhadas de contas de Clash Royale, a partir do ID do jogador (Player Tag). Ele também disponibiliza uma lista de cartas do jogo, incluindo nome, raridade, tipo e nível máximo.
 
 Funcionalidades:
 
